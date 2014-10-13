@@ -10,6 +10,10 @@
   * [[bnp:obs|Open Bible Stories (bnp)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bnp|d43-bnp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bnp/archive/master.zip|d43-bnp.zip]]
+
 **Recent Changes**
 {{changes>ns = bnp}}
 
