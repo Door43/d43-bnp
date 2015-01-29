@@ -48,3 +48,6 @@
   - [[bnp:obs:48|Jesus is the Promised Messiah]]
   - [[bnp:obs:49|God's New Covenant]]
   - [[bnp:obs:50|Jesus Returns]]
+  * [[bnp:obs:front-matter|Front Matter]]
+  * [[bnp:obs:back-matter|Back Matter]]
+  * [[bnp:obs:app_words|Mobile App Words]]

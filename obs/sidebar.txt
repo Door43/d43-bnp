@@ -1,11 +1,33 @@
 
 ----
 
-**[[bnp:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>bnp:obs:stories}}
+  * [[bnp:home|Door43 (bnp)]]
 
+**Resources**
+
+  * [[bnp:obs|Open Bible Stories (bnp)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bnp|d43-bnp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bnp/archive/master.zip|d43-bnp.zip]]
+
+**Recent Changes**
+{{changes>ns = bnp}}
 
 **Latest Status**
 {{page>en:uwadmin:bnp:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bnp|Ethnologue data]]
+
+**Resources**
+
+  * [[bnp:obs|Open Bible Stories (bnp)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:bnp:obs:status}}

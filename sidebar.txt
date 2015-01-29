@@ -24,3 +24,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/bnp|Ethnologue data]]
+
+**Resources**
+
+  * [[bnp:obs|Open Bible Stories (bnp)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:bnp:obs:status}}
